@@ -1,11 +1,11 @@
 body {
-  background-image: url(/images/schoene-hand-gemalt-aquarell-hintergrund_1020-1087.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
+    background-image: url(./images/schoene-hand-gemalt-aquarell-hintergrund_1020-1087.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #logo {
-  font-family: "Sacramento", cursive;
+    font-family: "Sacramento", cursive;
 }
 
 #carousel {
